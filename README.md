@@ -1,4 +1,4 @@
-Simple exercise that converts an integer to a string in severl languages.
+Simple exercise that converts an integer to a string in several languages.
 
 HTML/JavaScript can be run in browser.
 Pyton and Ruby scripts should be run from command prompt.
